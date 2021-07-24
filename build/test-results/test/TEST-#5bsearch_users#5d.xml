@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="[search_users]" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-06-23T03:07:55" hostname="DESKTOP-SF5NH44" time="0.001">
+  <properties/>
+  <testcase name="[1:8] Validate Get all users" classname="[search_users]" time="0.0"/>
+  <testcase name="[2:17] Validate user Morpheus" classname="[search_users]" time="0.0"/>
+  <testcase name="[3:32] Validate delete method" classname="[search_users]" time="0.0"/>
+  <testcase name="[4:38] Validate register" classname="[search_users]" time="0.0"/>
+  <testcase name="[5.1:54] Create Victor user with QA Automation job" classname="[search_users]" time="0.0"/>
+  <testcase name="[5.2:54] Create Yesenia user with Contadora job" classname="[search_users]" time="0.0"/>
+  <testcase name="[5.3:54] Create Pablo user with Analista job" classname="[search_users]" time="0.0"/>
+  <testcase name="[6:63] validate method PUT" classname="[search_users]" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
